@@ -1,5 +1,5 @@
 <?php
 echo phpinfo();
-echo 'hh';
+echo 'HH';
 echo 123;
 echo 'aa';
